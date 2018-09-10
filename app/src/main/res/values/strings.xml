@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LabExer2</string>
+    <string name="relative_layout">Fisher Mall</string>
+    <string name="todo">TODO</string>
+    <string name="linear_layout">Fisher Mall</string>
+    <string name="constraint_layout">Fisher Mall</string>
+    <string name="location">Location: Quezon Ave. cor Roosevelt</string>
+    <string name="distance_from_ust">Distance from UST: 4.9 km</string>
+    <string name="next">NEXT</string>
+    <string name="back">BACK</string>
+    <string name="todo1">Todo1</string>
+</resources>
